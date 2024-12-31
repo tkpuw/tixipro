@@ -1,0 +1,129 @@
+timestamp, name, index, memory.total [MiB], memory.used [MiB], utilization.gpu [%]
+37:21.9, NVIDIA TITAN RTX,2, 24220 MiB, 12828 MiB,92%
+38:21.9, NVIDIA TITAN RTX,2, 24220 MiB, 16844 MiB,92%
+39:22.0, NVIDIA TITAN RTX,2, 24220 MiB, 16844 MiB,92%
+40:22.0, NVIDIA TITAN RTX,2, 24220 MiB, 16844 MiB,94%
+41:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+42:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+43:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+44:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+45:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+46:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+47:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+48:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+49:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+50:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+51:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+52:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,95%
+53:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+54:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+55:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+56:22.1, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+57:22.2, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+58:22.2, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+59:22.2, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,91%
+00:22.2, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+01:22.2, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+02:22.3, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,94%
+03:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+04:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+05:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+06:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+07:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+08:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+09:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,91%
+10:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,93%
+11:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+12:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,91%
+13:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+14:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16848 MiB,92%
+15:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16874 MiB,15%
+16:22.4, NVIDIA TITAN RTX,2, 24220 MiB, 16876 MiB,56%
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
